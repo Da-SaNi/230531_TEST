@@ -1,9 +1,5 @@
 ### Cart List
-a
-b
-c
-d
-e
-f
-g
-
+1. Samsung
+2. sk hynix
+3. TSLA
+4. AAMZ
